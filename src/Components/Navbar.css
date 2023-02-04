@@ -1,0 +1,12 @@
+.navbar-menu {
+    background-color: blueviolet;
+    padding: 25px;
+    display: flex;
+    justify-content: end;
+    
+}
+
+.navbar-menu a {
+    margin-left: 10px;   
+    
+}
